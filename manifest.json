@@ -7,7 +7,7 @@
   "start_url": "/",
   "icons": [
     {
-      "src": "ApacheFavicon.ico",
+      "src": "logo-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
